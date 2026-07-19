@@ -2,7 +2,7 @@
 
 
 
-A structured workspace for data analysis, experimentation, and learning.  
+A structured workspace for data analysis, experimentation, and learning.
 
 This repository contains Jupyter notebooks, templates, and scripts used for testing environments, exploring datasets, and building reproducible workflows.
 
@@ -34,7 +34,9 @@ DataProjects/
 
 ├── data/                # ignored by git
 
-│
+│	data\_raw/
+
+│	data\_clean/
 
 ├── JupyterLab\_Template.txt
 
@@ -78,13 +80,13 @@ jupyter lab
 
 
 
-\- Python 3.11  
+\- Python 3.11
 
-\- Conda  
+\- Conda
 
-\- JupyterLab  
+\- JupyterLab
 
-\- Git \& GitHub  
+\- Git \& GitHub
 
 \- VS Code (optional)
 
@@ -94,13 +96,9 @@ jupyter lab
 
 
 
-\- Add dataset exploration notebooks  
+\- Add dataset exploration notebooks
 
-\- Add reusable analysis templates  
+\- Add reusable analysis templates
 
-\- Add scripts for automation  
-
-
-
-
+\- Add scripts for automation
 
